@@ -1,20 +1,18 @@
 # SO-H2
 SO-H2 Client (Improved SonOyuncu module)
 SO-H2 yalnızca SonOyuncu için tasarlanmış ve geliştirilmiş bir client modülüdür. Videolar, görüntüler telif haklarına tabiidir.
+Yönetici olarak çalıştırmazsanız çalışmayacaktır.
+
+**Son Güncelleme: 14.03.2024 v1.0**
 
 **Nasıl Kullanılır?**
-- Aşağıda verilen linkten arşiv dosyasını indir (RAR)
-- Arşivin içindeki tüm dosyaları aynı konuma at.
-- Tüm dosyaların aynı yerde olduğundan emin ol ve "installer.exe" dosyasını çalıştır.
-- Client dosyalarının bilgisayarına indirilmesini bekle.
-- Dosyalar indirildikten sonra installer ile aynı konuma yüklenen "launcher.bat" dosyasını başlat. 
-- SonOyuncu Launcher'ın başlatılmasını bekle. Konsol kayıtlarını takip ederek modül stabilitesini ve işlemlerini kontrol edebilirsin.
-- Launcher açıldığında kendi oyun hesabınla oturum aç ve oyunu başlat.
-- Oyun açıldığında multiplayer seçeneğine tıkla ve SonOyuncu sunucusuna gir.
-- SonOyuncu'ya girince aşağıdaki tuş kombinasyonlarını kullanaraka modülleri aktif edebilirsin. İyi oyunlar!
-
-
-
+- Aşağıda verilen exe ve DLL dosyalarını indir. (Release)
+- Dosyaları aynı konumda olacak şekilde bir klasöre at.
+- SonOyuncu'yu başlat.
+- Oyun açıldığında sunucuya giriş yap, ardından so-h2_v1.0-pre_release.exe dosyasını yönetici olarak çalıştır
+- Tüm işlemlerin tamamlanmasını bekle.
+- init success yazısını gördükten sonra hile inject olacaktır.
+- Hilede GUI ve HUD yoktur. Tuş kombinasyonları aşağıda.
 
 
 **Tuş Kombinasyonları**;
