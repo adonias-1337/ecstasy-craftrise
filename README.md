@@ -1,4 +1,4 @@
-# SO-H2
+# SO-H2 [![Github All Releases](https://img.shields.io/github/downloads/adonias-1337/so-h2/total)]()
 SO-H2 Client (Improved SonOyuncu module)
 SO-H2 yalnızca SonOyuncu için tasarlanmış ve geliştirilmiş bir client modülüdür. Videolar, görüntüler telif haklarına tabiidir.
 Yönetici olarak çalıştırmazsanız çalışmayacaktır.
