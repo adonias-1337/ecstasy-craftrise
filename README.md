@@ -6,13 +6,19 @@ Yönetici olarak çalıştırmazsanız çalışmayacaktır.
 **Son Güncelleme: 20.05.2024 v1.0**
 
 **Nasıl Kullanılır?**
+- KULLANIM VIDEOSU AŞAĞIDA MEVCUT.
 - Aşağıda verilen exe ve DLL dosyalarını indir. (Release)
 - Dosyaları aynı konumda olacak şekilde bir klasöre at.
-- SonOyuncu'yu başlat.
+- CraftRise'ı başlat.
 - Oyun açıldığında sunucuya giriş yap, ardından hook_1.0.exe dosyasını yönetici olarak çalıştır
 - Tüm işlemlerin tamamlanmasını bekle.
 - init success yazısını gördükten sonra hile inject olacaktır.
-- Hilede GUI ve HUD yoktur. Tuş kombinasyonları aşağıda.
+
+https://youtu.be/jeaXAFBBQng
+
+
+
+
 
 
 **Tuş Kombinasyonları**;
@@ -55,3 +61,5 @@ Uygulamayı yönetici olarak çalıştırmanız gerekiyor.
 
 Eğer bu hatayı alıyorsanız büyük bir olasılık ile client fixlenmiş durumdadır, getireceğimiz güncellemeleri GitHub üzerinden takip edebilirsiniz.
 Client sorunsuz bir şekilde çalışıyorsa, sorun muhtemelen sizden kaynaklıdır, oyuna giriş yapmadan açtığınız programları kapatın.
+
+![image](https://github.com/adonias-1337/SO-H2/assets/81821456/aef9f618-4574-43b8-8fb1-0ac07466c637)
