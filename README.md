@@ -1,15 +1,15 @@
-# SO-H2 [![Github All Releases](https://img.shields.io/github/downloads/adonias-1337/so-h2/total)]()
-SO-H2 Client (Improved SonOyuncu module)
-SO-H2 yalnızca SonOyuncu için tasarlanmış ve geliştirilmiş bir client modülüdür. Videolar, görüntüler telif haklarına tabiidir.
+# Ecstasy for CraftRise [![Github All Releases](https://img.shields.io/github/downloads/adonias-1337/so-h2/total)]()
+Ecstasy Client (Improved CraftRise module)
+Ecstasy yalnızca CraftRise için tasarlanmış ve geliştirilmiş bir client modülüdür. Videolar, görüntüler telif haklarına tabiidir.
 Yönetici olarak çalıştırmazsanız çalışmayacaktır.
 
-**Son Güncelleme: 14.03.2024 v1.0**
+**Son Güncelleme: 20.05.2024 v1.0**
 
 **Nasıl Kullanılır?**
 - Aşağıda verilen exe ve DLL dosyalarını indir. (Release)
 - Dosyaları aynı konumda olacak şekilde bir klasöre at.
 - SonOyuncu'yu başlat.
-- Oyun açıldığında sunucuya giriş yap, ardından so-h2_v1.0-pre_release.exe dosyasını yönetici olarak çalıştır
+- Oyun açıldığında sunucuya giriş yap, ardından hook_1.0.exe dosyasını yönetici olarak çalıştır
 - Tüm işlemlerin tamamlanmasını bekle.
 - init success yazısını gördükten sonra hile inject olacaktır.
 - Hilede GUI ve HUD yoktur. Tuş kombinasyonları aşağıda.
@@ -19,13 +19,13 @@ Yönetici olarak çalıştırmazsanız çalışmayacaktır.
 
 KillAura [R]
 
-AntiKnockback [U]
+Velocity [U]
 
 Scaffold [H]
 
 Reach [G]
 
-Modül ayarlarını oyuna girdikten sonra oluşan, C:\SOH2\config.json\ dosyasından değiştirebilirsiniz.
+Modül ayarlarını oyun içerisinde RSHIFT tuşuna basarak açabileceğiniz ClickGUI üzerinden değiştirebilirsiniz.
 
 
 
@@ -39,7 +39,7 @@ Modül ayarlarını oyuna girdikten sonra oluşan, C:\SOH2\config.json\ dosyası
 Bu hatanın tek çözümü Windows Defender ve diğer güvenlik programlarını kapatmaktır.
 Hilede kesinlikle kötü amaçlı yazılım bulunmuyor, yalnızca bu programların güvenlik önlemleri çok katı olduğu için en ufak 3. parti işlemler için bile Virüs tanısı koyuluyor.
 
-- **Veri bağlantısı kurulamadı (sohoi.xyz)**
+- **Veri bağlantısı kurulamadı (ecstasyvip.xyz)**
  
 Bu hata verileri korumak ve saklamak için kullandığımız web sunucusu kaynaklı bir hatadır, eğer bu hatayı alıyorsanız internet bağlantınızı kontrol edin ya da sohoi.xyz adresinin aktif olup olmadığından emin olun.
 
@@ -51,7 +51,7 @@ Bu hata verileri korumak ve saklamak için kullandığımız web sunucusu kaynak
 
 Uygulamayı yönetici olarak çalıştırmanız gerekiyor.
 
-- **SonOyuncu Launcher kullanarak giriş yapın.**
+- **Oturumunuz sonlandırıldı.**
 
 Eğer bu hatayı alıyorsanız büyük bir olasılık ile client fixlenmiş durumdadır, getireceğimiz güncellemeleri GitHub üzerinden takip edebilirsiniz.
 Client sorunsuz bir şekilde çalışıyorsa, sorun muhtemelen sizden kaynaklıdır, oyuna giriş yapmadan açtığınız programları kapatın.
