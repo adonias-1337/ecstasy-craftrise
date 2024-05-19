@@ -52,9 +52,9 @@ Hilede kesinlikle kötü amaçlı yazılım bulunmuyor, yalnızca bu programlar�
  
 Bu hata verileri korumak ve saklamak için kullandığımız web sunucusu kaynaklı bir hatadır, eğer bu hatayı alıyorsanız internet bağlantınızı kontrol edin ya da sohoi.xyz adresinin aktif olup olmadığından emin olun.
 
-- **SonOyuncu sunucuları ile bağlantı kurulamadı.**
+- **CraftRise sunucularına erişiminiz engellendi.**
 
-İnternet bağlantınızın stabil olduğundan ya da SonOyuncu sunucusunun aktif olduğundan emin olun.
+Bu mesajı alıyorsanız sunucudan kalıcı bir şekilde uzaklaştırılmışsınız/cihaz yasaklaması almışsınız demektir. 
 
 - **.NET Framework hataları**
 
