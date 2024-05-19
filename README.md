@@ -3,7 +3,7 @@ Ecstasy Client (Improved CraftRise module)
 Ecstasy yalnızca CraftRise için tasarlanmış ve geliştirilmiş bir client modülüdür. Videolar, görüntüler telif haklarına tabiidir.
 Yönetici olarak çalıştırmazsanız çalışmayacaktır.
 
-**Güncel İndirme Bağlantısı **: https://github.com/adonias-1337/ecstasy-craftrise/releases/tag/ecstasy_v1.0-20.05.2024
+**Güncel İndirme Bağlantısı**: https://github.com/adonias-1337/ecstasy-craftrise/releases/tag/ecstasy_v1.0-20.05.2024
 
 **Son Güncelleme: 20.05.2024 v1.0**
 
